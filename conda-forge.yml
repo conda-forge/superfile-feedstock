@@ -3,7 +3,7 @@ build_platform:
   osx_arm64: osx_64
 provider:
   linux_aarch64: azure
-  osx_arm64: osx_64
+  linux_ppc64le: azure
 test: native_and_emulated
 github:
   branch_name: main
