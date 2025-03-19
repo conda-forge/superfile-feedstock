@@ -206,6 +206,3 @@ Feedstock Maintainers
 * [@apcamargo](https://github.com/apcamargo/)
 * [@claudiushaag](https://github.com/claudiushaag/)
 
-
-<!-- dummy commit to enable rerendering -->
-
