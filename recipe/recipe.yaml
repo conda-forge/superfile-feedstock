@@ -1,5 +1,5 @@
 context:
-  version: "1.5.0"
+  version: "1.6.0"
 
 package:
   name: superfile
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/yorukot/superfile/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: bb394f73817d164b9756613ccd850fb3dd5fd5ee898defd86b27eecd4cec48bf
+  sha256: 7340ce9e3e7db401164310dd5d2d1dfa3ccf76118ac49d192b0fac2a292c5b0d
 
 build:
   number: 0
